@@ -1,4 +1,4 @@
-# Agile-Use-Case--Website-for-an-Investment-Firm
+# Investment-Platform-Agile-Product-Case-Study
 
 
 
